@@ -1,7 +1,7 @@
-package com.tpe.onetomany;
+package com.tpe.onetomany_bi;
 
-import com.tpe.manytoone.Company;
-import com.tpe.manytoone.Developer04;
+import com.tpe.onetomany.Company2;
+import com.tpe.onetomany.Developer05;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.Transaction;
